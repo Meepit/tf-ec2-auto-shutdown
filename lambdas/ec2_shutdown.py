@@ -6,11 +6,9 @@ def lambda_handler(event, context):
     raise
 
 
-
 class RemoteExecutor:
     def __init__(self):
         pass
-
 
     execute(self, command):
         pass
